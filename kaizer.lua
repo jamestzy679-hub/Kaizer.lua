@@ -1,5 +1,5 @@
 # Kaizer.lua
--local base = "https://raw.githubusercontent.com/YOURUSER/YOURREPO/main/"
+-local base = "https://raw.githubusercontent.com/jamestzy679-hub/main.lua/refs/heads/main/main.lua"
 
 local function loadModule(name)
     local src = game:HttpGet(base .. name .. ".lua")
